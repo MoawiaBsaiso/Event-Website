@@ -1,0 +1,29 @@
+/* Start Header */
+
+
+/* End Header */
+
+
+/* Start Table */
+
+.table-sec .boxes .box {
+    border-right: 2px solid #e9e9e9;
+}
+
+.table-sec .boxes .row .vertical {
+    right: 92%;
+    left: auto;
+}
+
+.table-sec .boxes .vertica {
+    right: 92%;
+    left: auto;
+}
+
+.table-sec .boxes .vertic {
+    right: 92%;
+    left: auto;
+}
+
+
+/* End Table */
